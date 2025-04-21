@@ -1,0 +1,48 @@
+body{
+  background:linear-gradient(whitesmoke,powderblue);
+  margin:0px;
+  padding:0px;
+}
+.h{
+  width:100%;
+  height:200px;
+  border-radius:5px;
+  
+  background:rgb(194, 24, 157);
+  
+  text-align:center;
+  
+}
+.l{
+  font-size:30px;
+  color:white;
+  font-style:bold;
+}
+
+.d2{
+  padding-top:10px;
+  margin:0px;
+  color:rgb(219, 17, 17);
+}
+.d3{
+  border:1px solid gray;
+  margin:20px;
+  padding:20px;
+  text-align:center;
+  color:rgb(199, 115, 18);
+}
+.b{
+  width:800px;
+  height:209px;
+  border-radius:5px;
+  background:rgb(197, 11, 42);
+  color:rgb(24, 218, 57);
+  font-size:20px;
+}
+img{
+  width:500px;
+  height:300px;
+}
+.d4{
+  text-align:center;
+}
